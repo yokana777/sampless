@@ -32,6 +32,7 @@ public class main extends AppCompatActivity {
     private ListView listView;
     private View content;
     private List<Article> articleList;
+    private string mmt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
